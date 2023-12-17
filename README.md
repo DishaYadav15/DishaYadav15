@@ -16,13 +16,13 @@ I'm excited to start my journey in open source!
 
 - Programming Languages: C, C++, Java, Python
 - Frontend Development: HTML, CSS, JavaScript
+  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DishaYadav15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DishaYadav018&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DishaYadav15&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=DishaYadav018&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DishaYadav018&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DishaYadav15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Contact
 
